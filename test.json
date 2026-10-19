@@ -1,0 +1,22 @@
+{
+  "dateien": {
+    "darwin-amd64": {
+      "url": "3.4.1/srental3-darwin-amd64",
+      "sha256": "71861c89ba615a27964d71d0d6e8a229235291515ba608f69fb75f63e0461d4c",
+      "groesse": 10761744
+    },
+    "darwin-arm64": {
+      "url": "3.4.1/srental3-darwin-arm64",
+      "sha256": "20d0bad958d0c0dc5988300c10fad69f3efdbeeaef65e9be138f15929c4ca7d2",
+      "groesse": 10176978
+    }
+  },
+  "datum": "2026-10-19",
+  "kanal": "test",
+  "neu": [
+    "Erstes Update über den Knopf «Jetzt aktualisieren»",
+    "Fehlermeldungen werden rot angezeigt",
+    "Hinweis «Testversion» verschwindet, sobald S Rental 3 dein Hauptprogramm ist"
+  ],
+  "version": "3.4.1"
+}
