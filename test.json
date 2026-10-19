@@ -1,22 +1,22 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.5.1/srental3-darwin-amd64",
-      "sha256": "eed2d1afb80b3cb9f06d16118f5c16aaff33ca604ba18e616759e03639dc3666",
-      "groesse": 10836016
+      "url": "3.5.2/srental3-darwin-amd64",
+      "sha256": "a9fa4219ddad860829a645e30455e30a0bfd8bdfebfeebfb19a9799aac40fb63",
+      "groesse": 10835952
     },
     "darwin-arm64": {
-      "url": "3.5.1/srental3-darwin-arm64",
-      "sha256": "004723687154889a7eb943d859df1a834eb008a62d1563ed7d7476cc8fb0f371",
-      "groesse": 10243570
+      "url": "3.5.2/srental3-darwin-arm64",
+      "sha256": "ad558ed86e2647f34f2830229fa87a8fa39ff1121a16aa34d75ddaaf5866e483",
+      "groesse": 10243490
     }
   },
   "datum": "2026-10-19",
   "kanal": "test",
   "neu": [
-    "Abo als Standard: Zugangscode gilt bis zu einem Datum",
-    "Erinnerung 30 Tage bevor das Abo abläuft",
-    "Für dich: Kundenliste mit «+1 Jahr verlängern»"
+    "Zugangscode erstellen ist fehlersicher: Kunden-Abo immer für genau einen Computer",
+    "Tippfehler in der Computer-Kennung werden erkannt",
+    "Doppelte Abos und vertauschte Kennungen werden verhindert, Kontrollfrage vor dem Erstellen"
   ],
-  "version": "3.5.1"
+  "version": "3.5.2"
 }
