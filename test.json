@@ -1,22 +1,23 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.4.1/srental3-darwin-amd64",
-      "sha256": "71861c89ba615a27964d71d0d6e8a229235291515ba608f69fb75f63e0461d4c",
-      "groesse": 10761744
+      "url": "3.5.0/srental3-darwin-amd64",
+      "sha256": "a0ffe44231bcea3f2929dbb79d5ea14fa288ad79483ae4e8c12375d74ea74a02",
+      "groesse": 10827776
     },
     "darwin-arm64": {
-      "url": "3.4.1/srental3-darwin-arm64",
-      "sha256": "20d0bad958d0c0dc5988300c10fad69f3efdbeeaef65e9be138f15929c4ca7d2",
-      "groesse": 10176978
+      "url": "3.5.0/srental3-darwin-arm64",
+      "sha256": "f43b1c4fec32b78c1b5f6955d1744edacaf87f55a7f36db8c9e52ae590ada6dd",
+      "groesse": 10243522
     }
   },
   "datum": "2026-10-19",
   "kanal": "test",
   "neu": [
-    "Erstes Update über den Knopf «Jetzt aktualisieren»",
-    "Fehlermeldungen werden rot angezeigt",
-    "Hinweis «Testversion» verschwindet, sobald S Rental 3 dein Hauptprogramm ist"
+    "Neu: Lizenz – 30 Tage Probezeit, danach Zugangscode (Nur-Lesen-Modus ohne Code)",
+    "Neu: «Lizenz erstellen» für dich als Herausgeber",
+    "Neu: Willkommen-Seite für neue Kunden (Neu beginnen ohne Daten)",
+    "Seitenleiste lässt sich auf kleinen Bildschirmen scrollen"
   ],
-  "version": "3.4.1"
+  "version": "3.5.0"
 }
