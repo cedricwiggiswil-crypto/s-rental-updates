@@ -1,22 +1,22 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.5.2/srental3-darwin-amd64",
-      "sha256": "a9fa4219ddad860829a645e30455e30a0bfd8bdfebfeebfb19a9799aac40fb63",
-      "groesse": 10835952
+      "url": "3.6.0/srental3-darwin-amd64",
+      "sha256": "7fd1f5d514b5ae1ce63cf197e4097e65bc86dad50b56469b7f828526ae38b4a9",
+      "groesse": 10860656
     },
     "darwin-arm64": {
-      "url": "3.5.2/srental3-darwin-arm64",
-      "sha256": "ad558ed86e2647f34f2830229fa87a8fa39ff1121a16aa34d75ddaaf5866e483",
-      "groesse": 10243490
+      "url": "3.6.0/srental3-darwin-arm64",
+      "sha256": "53c519143348a330dfb32c18286c4dd63975a8175e83b0ff041ec0c6068d7642",
+      "groesse": 10260146
     }
   },
-  "datum": "2026-10-19",
+  "datum": "2026-10-20",
   "kanal": "test",
   "neu": [
-    "Zugangscode erstellen ist fehlersicher: Kunden-Abo immer für genau einen Computer",
-    "Tippfehler in der Computer-Kennung werden erkannt",
-    "Doppelte Abos und vertauschte Kennungen werden verhindert, Kontrollfrage vor dem Erstellen"
+    "Beim ersten Start: AGB und Datenschutzerklärung lesen und mit zwei Häkchen bestätigen",
+    "Bei einer neuen Fassung wird erneut gefragt",
+    "AGB und Datenschutz jederzeit unter «Über S Rental»"
   ],
-  "version": "3.5.2"
+  "version": "3.6.0"
 }
