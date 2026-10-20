@@ -1,28 +1,26 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.8.0/srental3-darwin-amd64",
-      "sha256": "d9e9dee6f327865c639a4136eb707fa5faf1ca29cfa9c350e5ca062a75456c3c",
-      "groesse": 10930960
+      "url": "3.8.1/srental3-darwin-amd64",
+      "sha256": "c0f028b8eb65fdf032eded6d1fd313113d6a823ec18f241048bc261e324f4e6c",
+      "groesse": 10955536
     },
     "darwin-arm64": {
-      "url": "3.8.0/srental3-darwin-arm64",
-      "sha256": "90633df4f62c5527d1adb4e2391cf0c472383a1f845103706d88e1021fe8ee69",
-      "groesse": 10326866
+      "url": "3.8.1/srental3-darwin-arm64",
+      "sha256": "e4d262c2e767d4c6e0e580e31132bd123bce4d6bf565e82daec5f4302317cacb",
+      "groesse": 10343378
     },
     "windows-amd64": {
-      "url": "3.8.0/srental3-windows-amd64.exe",
-      "sha256": "3746cc392c07d87b3cef3fd00c11176da9fe55f8ec6f1578592c432de8f7aa1b",
-      "groesse": 11033088
+      "url": "3.8.1/srental3-windows-amd64.exe",
+      "sha256": "3f54d5c2baaa507eb6f8ead7264ba3c23fa3d79caa61c11f026d5a6d8b754274",
+      "groesse": 11057664
     }
   },
   "datum": "2026-10-20",
   "kanal": "test",
   "neu": [
-    "S Rental läuft jetzt auch auf Windows",
-    "Jahreslizenz statt Abo: keine automatische Verlängerung, Erinnerung vor Ablauf",
-    "Sicherung herunterladen und zurückholen (Daten \u0026 Sicherung)",
-    "Nach dem Kauf schaltet sich S Rental innert einer Minute frei"
+    "AGB und Datenschutz ausführlich und klar überarbeitet",
+    "Häkchen-Text bei der Zustimmung korrigiert"
   ],
-  "version": "3.8.0"
+  "version": "3.8.1"
 }
