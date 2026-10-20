@@ -1,22 +1,28 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.7.0/srental3-darwin-amd64",
-      "sha256": "de4f6609eab48a03e3de2ee678f6edd570dd5388b631679a646ef906daaca4fc",
-      "groesse": 10922752
+      "url": "3.8.0/srental3-darwin-amd64",
+      "sha256": "d9e9dee6f327865c639a4136eb707fa5faf1ca29cfa9c350e5ca062a75456c3c",
+      "groesse": 10930960
     },
     "darwin-arm64": {
-      "url": "3.7.0/srental3-darwin-arm64",
-      "sha256": "e507945a244640d30be159e90caf11fcab0e05e387d8d276a60720607cb1dba6",
-      "groesse": 10326850
+      "url": "3.8.0/srental3-darwin-arm64",
+      "sha256": "90633df4f62c5527d1adb4e2391cf0c472383a1f845103706d88e1021fe8ee69",
+      "groesse": 10326866
+    },
+    "windows-amd64": {
+      "url": "3.8.0/srental3-windows-amd64.exe",
+      "sha256": "3746cc392c07d87b3cef3fd00c11176da9fe55f8ec6f1578592c432de8f7aa1b",
+      "groesse": 11033088
     }
   },
   "datum": "2026-10-20",
   "kanal": "test",
   "neu": [
-    "Mitarbeiter verwalten: Handy-Zugänge anlegen, PIN setzen, sperren",
-    "Kunden und Maschinen werden automatisch an die Handys geschickt",
-    "Vorbereitet: S Rental Cloud mit Abo-Kauf für neue Kunden"
+    "S Rental läuft jetzt auch auf Windows",
+    "Jahreslizenz statt Abo: keine automatische Verlängerung, Erinnerung vor Ablauf",
+    "Sicherung herunterladen und zurückholen (Daten \u0026 Sicherung)",
+    "Nach dem Kauf schaltet sich S Rental innert einer Minute frei"
   ],
-  "version": "3.7.0"
+  "version": "3.8.0"
 }
