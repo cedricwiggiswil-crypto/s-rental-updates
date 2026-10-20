@@ -1,22 +1,20 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.6.0/srental3-darwin-amd64",
-      "sha256": "7fd1f5d514b5ae1ce63cf197e4097e65bc86dad50b56469b7f828526ae38b4a9",
+      "url": "3.6.1/srental3-darwin-amd64",
+      "sha256": "ad52090ba50ec783a70bb3ea4989cf54387e5b283e6a866936e70cc9f7956f76",
       "groesse": 10860656
     },
     "darwin-arm64": {
-      "url": "3.6.0/srental3-darwin-arm64",
-      "sha256": "53c519143348a330dfb32c18286c4dd63975a8175e83b0ff041ec0c6068d7642",
+      "url": "3.6.1/srental3-darwin-arm64",
+      "sha256": "c915867123bb9d0201b4e5bb3b9d7b10ab02b7403faf155259556d87574fdeb1",
       "groesse": 10260146
     }
   },
   "datum": "2026-10-20",
   "kanal": "test",
   "neu": [
-    "Beim ersten Start: AGB und Datenschutzerklärung lesen und mit zwei Häkchen bestätigen",
-    "Bei einer neuen Fassung wird erneut gefragt",
-    "AGB und Datenschutz jederzeit unter «Über S Rental»"
+    "AGB und Datenschutzerklärung mit deinen Anbieter-Angaben"
   ],
-  "version": "3.6.0"
+  "version": "3.6.1"
 }
