@@ -1,20 +1,22 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.6.1/srental3-darwin-amd64",
-      "sha256": "ad52090ba50ec783a70bb3ea4989cf54387e5b283e6a866936e70cc9f7956f76",
-      "groesse": 10860656
+      "url": "3.7.0/srental3-darwin-amd64",
+      "sha256": "de4f6609eab48a03e3de2ee678f6edd570dd5388b631679a646ef906daaca4fc",
+      "groesse": 10922752
     },
     "darwin-arm64": {
-      "url": "3.6.1/srental3-darwin-arm64",
-      "sha256": "c915867123bb9d0201b4e5bb3b9d7b10ab02b7403faf155259556d87574fdeb1",
-      "groesse": 10260146
+      "url": "3.7.0/srental3-darwin-arm64",
+      "sha256": "e507945a244640d30be159e90caf11fcab0e05e387d8d276a60720607cb1dba6",
+      "groesse": 10326850
     }
   },
   "datum": "2026-10-20",
   "kanal": "test",
   "neu": [
-    "AGB und Datenschutzerklärung mit deinen Anbieter-Angaben"
+    "Mitarbeiter verwalten: Handy-Zugänge anlegen, PIN setzen, sperren",
+    "Kunden und Maschinen werden automatisch an die Handys geschickt",
+    "Vorbereitet: S Rental Cloud mit Abo-Kauf für neue Kunden"
   ],
-  "version": "3.6.1"
+  "version": "3.7.0"
 }
