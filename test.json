@@ -1,26 +1,25 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.8.4/srental3-darwin-amd64",
-      "sha256": "6fca72025d5610be47bb7495d755f0c0030ba6902eda8c89c77c4eecfa4ca0b2",
+      "url": "3.8.5/srental3-darwin-amd64",
+      "sha256": "defbc7e8cc8f97f8f022b58f0930a4da84325399be8842de96eff37fea4f75f9",
       "groesse": 10967888
     },
     "darwin-arm64": {
-      "url": "3.8.4/srental3-darwin-arm64",
-      "sha256": "182afa9c632517ea2d55377a957c3001ab892b6941d4d82aa017bf7120f393be",
+      "url": "3.8.5/srental3-darwin-arm64",
+      "sha256": "b190042563b233882425dcd866b41fcea27a114ad9bd5df2fe77ec226cc5b3e6",
       "groesse": 10359938
     },
     "windows-amd64": {
-      "url": "3.8.4/srental3-windows-amd64.exe",
-      "sha256": "3f282929409b1b7e15d8187a23d1eed36e6f2b3a3ecdb7dfe42a82e7fbb74000",
+      "url": "3.8.5/srental3-windows-amd64.exe",
+      "sha256": "05580f783903aaaf100eb728bfa3cca9fe0d7ea67a006e9a0396e23250c7d9e9",
       "groesse": 11066880
     }
   },
   "datum": "2026-10-21",
   "kanal": "test",
   "neu": [
-    "Doppelter Start öffnet nur noch ein Programm",
-    "Kleine Verbesserungen bei Lizenz und Zahlung"
+    "Benutzername und PIN/Passwort für Mitarbeiter weniger streng: Gross-/Kleinschreibung egal, Umlaute und Leerzeichen erlaubt, Passwort mit Buchstaben möglich"
   ],
-  "version": "3.8.4"
+  "version": "3.8.5"
 }
