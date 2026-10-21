@@ -1,25 +1,26 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.9.2/srental3-darwin-amd64",
-      "sha256": "f3253003d8cdabbb8b6f4fe277d437028c82c0e21dcc64724adfef6c10d28eca",
-      "groesse": 11054560
+      "url": "3.9.3/srental3-darwin-amd64",
+      "sha256": "32b9245e869b7dc8487db4a9e377b1d7d786f7e55636485d700b4743b3582a1f",
+      "groesse": 11067184
     },
     "darwin-arm64": {
-      "url": "3.9.2/srental3-darwin-arm64",
-      "sha256": "d7bd3e3d9de6eb443cf7309bcb841805268d7ada802159e28599322385acec22",
-      "groesse": 10443154
+      "url": "3.9.3/srental3-darwin-arm64",
+      "sha256": "eea50a05b8e1b1a006b3055facb3de5cc08d15156c6b9b27c961d2a70db5f496",
+      "groesse": 10460018
     },
     "windows-amd64": {
-      "url": "3.9.2/srental3-windows-amd64.exe",
-      "sha256": "4e6735704ef6d06224baca00ab4ea9d7ae25ba991a38aef8440578d0939d9728",
-      "groesse": 11143168
+      "url": "3.9.3/srental3-windows-amd64.exe",
+      "sha256": "61610b668796003f12aa5c67aaad123a674d5785b651aee648825576a9de2df7",
+      "groesse": 11162112
     }
   },
   "datum": "2026-10-21",
   "kanal": "stabil",
   "neu": [
-    "Einführungspreis CHF 180.– statt 240.– für Käufe bis 31. Januar 2027"
+    "Anleitung",
+    "Layout-Update"
   ],
-  "version": "3.9.2"
+  "version": "3.9.3"
 }
