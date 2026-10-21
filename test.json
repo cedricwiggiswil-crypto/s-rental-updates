@@ -1,25 +1,25 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.9.1/srental3-darwin-amd64",
-      "sha256": "718b65f36ae42c8cd791822c75322c9262c1938ea84a81188118f3f788c760e7",
-      "groesse": 11050432
+      "url": "3.9.2/srental3-darwin-amd64",
+      "sha256": "f3253003d8cdabbb8b6f4fe277d437028c82c0e21dcc64724adfef6c10d28eca",
+      "groesse": 11054560
     },
     "darwin-arm64": {
-      "url": "3.9.1/srental3-darwin-arm64",
-      "sha256": "cec7921b94c42f2bcac6b168a4814ac2f5efdf9f4a3d82c430906d048c6d7f5f",
-      "groesse": 10443138
+      "url": "3.9.2/srental3-darwin-arm64",
+      "sha256": "d7bd3e3d9de6eb443cf7309bcb841805268d7ada802159e28599322385acec22",
+      "groesse": 10443154
     },
     "windows-amd64": {
-      "url": "3.9.1/srental3-windows-amd64.exe",
-      "sha256": "3a4aa2f3dd64190a0dcea80e54f84dcb66752045450aa76cf242478b6d06af38",
-      "groesse": 11142656
+      "url": "3.9.2/srental3-windows-amd64.exe",
+      "sha256": "4e6735704ef6d06224baca00ab4ea9d7ae25ba991a38aef8440578d0939d9728",
+      "groesse": 11143168
     }
   },
   "datum": "2026-10-21",
   "kanal": "test",
   "neu": [
-    "Windows: Update klappt auch, wenn Windows die alte Programmdatei noch festhält"
+    "Einführungspreis CHF 180.– statt 240.– für Käufe bis 31. Januar 2027"
   ],
-  "version": "3.9.1"
+  "version": "3.9.2"
 }
