@@ -1,28 +1,25 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.9.0/srental3-darwin-amd64",
-      "sha256": "99ad91be520b9082e921b3b2b5ecfe45ae7cad6d1ac55dd893468fe18b08e4da",
-      "groesse": 11046336
+      "url": "3.9.1/srental3-darwin-amd64",
+      "sha256": "718b65f36ae42c8cd791822c75322c9262c1938ea84a81188118f3f788c760e7",
+      "groesse": 11050432
     },
     "darwin-arm64": {
-      "url": "3.9.0/srental3-darwin-arm64",
-      "sha256": "ed1ae771ba3b47c752c09dba7c3764c1ad868bb38e6fb5aab39d802b9ed071b4",
+      "url": "3.9.1/srental3-darwin-arm64",
+      "sha256": "cec7921b94c42f2bcac6b168a4814ac2f5efdf9f4a3d82c430906d048c6d7f5f",
       "groesse": 10443138
     },
     "windows-amd64": {
-      "url": "3.9.0/srental3-windows-amd64.exe",
-      "sha256": "921eb1516d122fdbc49b08aaa1f7f228c7a4e4061130d98fe1da727290517171",
-      "groesse": 11140608
+      "url": "3.9.1/srental3-windows-amd64.exe",
+      "sha256": "3a4aa2f3dd64190a0dcea80e54f84dcb66752045450aa76cf242478b6d06af38",
+      "groesse": 11142656
     }
   },
   "datum": "2026-10-21",
   "kanal": "stabil",
   "neu": [
-    "Deine Daten liegen jetzt verschlüsselt auf dem Computer (AES-256) – der Schlüssel ist im Schlüsselbund (Mac) bzw. von Windows geschützt",
-    "«Sicherung speichern» mit eigenem Passwort – ein verlorener USB-Stick verrät nichts",
-    "Rapporte, Fotos, Unterschriften und QR-Meldungen werden schon auf dem Handy verschlüsselt – nur dein S Rental kann sie öffnen",
-    "Update-Einstellungen sieht nur noch der Herausgeber"
+    "Windows: Update klappt auch, wenn Windows die alte Programmdatei noch festhält"
   ],
-  "version": "3.9.0"
+  "version": "3.9.1"
 }
