@@ -1,25 +1,28 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.8.8/srental3-darwin-amd64",
-      "sha256": "5e4629272f7f9f26248936d9b27ede3a1bef00e2b15f05fa13f192c98cd47770",
-      "groesse": 10984288
+      "url": "3.8.9/srental3-darwin-amd64",
+      "sha256": "a698bc58ca728e7a2d6e23349b3fe0d3ee2fb8db0acca42726081be8f2c0a750",
+      "groesse": 10988384
     },
     "darwin-arm64": {
-      "url": "3.8.8/srental3-darwin-arm64",
-      "sha256": "70ad9fae6aaf0bd5bb64b507e2ebc4eeb0dc808b6e2e898ab955a63aaf63d803",
-      "groesse": 10359970
+      "url": "3.8.9/srental3-darwin-arm64",
+      "sha256": "b67954ca7f1adc7a2f71236a2ecddab9fb9cd3d63370e8845df4778d94605a27",
+      "groesse": 10392994
     },
     "windows-amd64": {
-      "url": "3.8.8/srental3-windows-amd64.exe",
-      "sha256": "b55b4193d17fb583abd9b83f3f1ed700fc2bbb681e7c0356107d8cdeac06aa50",
-      "groesse": 11071488
+      "url": "3.8.9/srental3-windows-amd64.exe",
+      "sha256": "403183bd55a0f90b4d10d9a492eacbc149217a1dd2191c4a4d8723d2f33a3c14",
+      "groesse": 11076096
     }
   },
   "datum": "2026-10-21",
   "kanal": "stabil",
   "neu": [
-    "Mac: kein Dock-Symbol mehr – S Rental muss nie mehr mit «Sofort beenden» geschlossen werden (gilt ab dem nächsten Start)"
+    "Mehr Sicherheit: S Rental lässt sich nicht mehr von fremden Webseiten aus steuern",
+    "Updates sind jetzt digital unterschrieben – nur echte S-Rental-Versionen werden installiert",
+    "Mac: kein «reagiert nicht» mehr beim Öffnen, ein zweiter Doppelklick öffnet einfach den Browser",
+    "Kleinere Verbesserungen"
   ],
-  "version": "3.8.8"
+  "version": "3.8.9"
 }
