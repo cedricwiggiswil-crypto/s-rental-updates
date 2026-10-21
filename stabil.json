@@ -1,29 +1,26 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.8.3/srental3-darwin-amd64",
-      "sha256": "93412027b5407289a0453fd563637ad997760cf689e6aa475e414cfee332c8cf",
+      "url": "3.8.4/srental3-darwin-amd64",
+      "sha256": "6fca72025d5610be47bb7495d755f0c0030ba6902eda8c89c77c4eecfa4ca0b2",
       "groesse": 10967888
     },
     "darwin-arm64": {
-      "url": "3.8.3/srental3-darwin-arm64",
-      "sha256": "0ee8f96d1f60fc4db85d9d92883d910d9646ca2e7284033083ddb6afab07abb4",
+      "url": "3.8.4/srental3-darwin-arm64",
+      "sha256": "182afa9c632517ea2d55377a957c3001ab892b6941d4d82aa017bf7120f393be",
       "groesse": 10359938
     },
     "windows-amd64": {
-      "url": "3.8.3/srental3-windows-amd64.exe",
-      "sha256": "b74455cb45abab0f9dedca6cd7b5843d60e91717ebd2a5042f5cba699fe066da",
+      "url": "3.8.4/srental3-windows-amd64.exe",
+      "sha256": "3f282929409b1b7e15d8187a23d1eed36e6f2b3a3ecdb7dfe42a82e7fbb74000",
       "groesse": 11066880
     }
   },
   "datum": "2026-10-21",
   "kanal": "stabil",
   "neu": [
-    "S Rental läuft auf Mac und Windows",
-    "Jahreslizenz ohne automatische Verlängerung",
-    "Handy-Rapporte mit Fotos und Unterschrift, QR-Meldungen",
-    "Sicherung herunterladen und zurückholen",
-    "Rapporte ganz löschen"
+    "Doppelter Start öffnet nur noch ein Programm",
+    "Kleine Verbesserungen bei Lizenz und Zahlung"
   ],
-  "version": "3.8.3"
+  "version": "3.8.4"
 }
