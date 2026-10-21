@@ -1,25 +1,26 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.8.5/srental3-darwin-amd64",
-      "sha256": "defbc7e8cc8f97f8f022b58f0930a4da84325399be8842de96eff37fea4f75f9",
-      "groesse": 10967888
+      "url": "3.8.6/srental3-darwin-amd64",
+      "sha256": "243fc399e90ce9638e90a8fe68e917df86c452b65752231f19d45d6df17e7e01",
+      "groesse": 10976080
     },
     "darwin-arm64": {
-      "url": "3.8.5/srental3-darwin-arm64",
-      "sha256": "b190042563b233882425dcd866b41fcea27a114ad9bd5df2fe77ec226cc5b3e6",
+      "url": "3.8.6/srental3-darwin-arm64",
+      "sha256": "64de977794001e7c52751d9736dd0f8684e16153998022821b418cfd81cfeed7",
       "groesse": 10359938
     },
     "windows-amd64": {
-      "url": "3.8.5/srental3-windows-amd64.exe",
-      "sha256": "05580f783903aaaf100eb728bfa3cca9fe0d7ea67a006e9a0396e23250c7d9e9",
+      "url": "3.8.6/srental3-windows-amd64.exe",
+      "sha256": "40a41c9d8080f29b54a8338cfaedb5fc0e991bb7e7637f4aa3edb0734d56efa8",
       "groesse": 11066880
     }
   },
   "datum": "2026-10-21",
   "kanal": "test",
   "neu": [
-    "Benutzername und PIN/Passwort für Mitarbeiter weniger streng: Gross-/Kleinschreibung egal, Umlaute und Leerzeichen erlaubt, Passwort mit Buchstaben möglich"
+    "Mac: S Rental legt sich beim ersten Start selbst in «Programme» – Updates funktionieren auch, wenn es aus «Downloads» gestartet wurde",
+    "Mitarbeiter: Benutzername und PIN/Passwort weniger streng"
   ],
-  "version": "3.8.5"
+  "version": "3.8.6"
 }
