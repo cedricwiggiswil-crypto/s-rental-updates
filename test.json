@@ -1,28 +1,28 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.8.9/srental3-darwin-amd64",
-      "sha256": "a698bc58ca728e7a2d6e23349b3fe0d3ee2fb8db0acca42726081be8f2c0a750",
-      "groesse": 10988384
+      "url": "3.9.0/srental3-darwin-amd64",
+      "sha256": "99ad91be520b9082e921b3b2b5ecfe45ae7cad6d1ac55dd893468fe18b08e4da",
+      "groesse": 11046336
     },
     "darwin-arm64": {
-      "url": "3.8.9/srental3-darwin-arm64",
-      "sha256": "b67954ca7f1adc7a2f71236a2ecddab9fb9cd3d63370e8845df4778d94605a27",
-      "groesse": 10392994
+      "url": "3.9.0/srental3-darwin-arm64",
+      "sha256": "ed1ae771ba3b47c752c09dba7c3764c1ad868bb38e6fb5aab39d802b9ed071b4",
+      "groesse": 10443138
     },
     "windows-amd64": {
-      "url": "3.8.9/srental3-windows-amd64.exe",
-      "sha256": "403183bd55a0f90b4d10d9a492eacbc149217a1dd2191c4a4d8723d2f33a3c14",
-      "groesse": 11076096
+      "url": "3.9.0/srental3-windows-amd64.exe",
+      "sha256": "921eb1516d122fdbc49b08aaa1f7f228c7a4e4061130d98fe1da727290517171",
+      "groesse": 11140608
     }
   },
   "datum": "2026-10-21",
   "kanal": "test",
   "neu": [
-    "Mehr Sicherheit: S Rental lässt sich nicht mehr von fremden Webseiten aus steuern",
-    "Updates sind jetzt digital unterschrieben – nur echte S-Rental-Versionen werden installiert",
-    "Mac: kein «reagiert nicht» mehr beim Öffnen, ein zweiter Doppelklick öffnet einfach den Browser",
-    "Kleinere Verbesserungen"
+    "Deine Daten liegen jetzt verschlüsselt auf dem Computer (AES-256) – der Schlüssel ist im Schlüsselbund (Mac) bzw. von Windows geschützt",
+    "«Sicherung speichern» mit eigenem Passwort – ein verlorener USB-Stick verrät nichts",
+    "Rapporte, Fotos, Unterschriften und QR-Meldungen werden schon auf dem Handy verschlüsselt – nur dein S Rental kann sie öffnen",
+    "Update-Einstellungen sieht nur noch der Herausgeber"
   ],
-  "version": "3.8.9"
+  "version": "3.9.0"
 }
