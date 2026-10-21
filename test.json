@@ -1,26 +1,25 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.8.1/srental3-darwin-amd64",
-      "sha256": "c0f028b8eb65fdf032eded6d1fd313113d6a823ec18f241048bc261e324f4e6c",
+      "url": "3.8.2/srental3-darwin-amd64",
+      "sha256": "6326d2bdc4b90aa35145a9ed5e158977f86a9f594e41c9452ea94baf7d155dca",
       "groesse": 10955536
     },
     "darwin-arm64": {
-      "url": "3.8.1/srental3-darwin-arm64",
-      "sha256": "e4d262c2e767d4c6e0e580e31132bd123bce4d6bf565e82daec5f4302317cacb",
+      "url": "3.8.2/srental3-darwin-arm64",
+      "sha256": "a4f1a1cc4e810f14d6a8273ce2fc66514324eb17a27d0f0a18f0902def13bb54",
       "groesse": 10343378
     },
     "windows-amd64": {
-      "url": "3.8.1/srental3-windows-amd64.exe",
-      "sha256": "3f54d5c2baaa507eb6f8ead7264ba3c23fa3d79caa61c11f026d5a6d8b754274",
+      "url": "3.8.2/srental3-windows-amd64.exe",
+      "sha256": "ef9591a89b99c374f033570800da8285678eef064b7b1e9d015dc4a9744d61dd",
       "groesse": 11057664
     }
   },
-  "datum": "2026-10-20",
+  "datum": "2026-10-21",
   "kanal": "test",
   "neu": [
-    "AGB und Datenschutz ausführlich und klar überarbeitet",
-    "Häkchen-Text bei der Zustimmung korrigiert"
+    "Herausgeber-Bereich: «Lizenz» statt «Abo»"
   ],
-  "version": "3.8.1"
+  "version": "3.8.2"
 }
