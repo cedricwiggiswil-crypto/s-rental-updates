@@ -1,26 +1,26 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.9.3/srental3-darwin-amd64",
-      "sha256": "32b9245e869b7dc8487db4a9e377b1d7d786f7e55636485d700b4743b3582a1f",
-      "groesse": 11067184
+      "url": "3.10.0/srental3-darwin-amd64",
+      "sha256": "334389ec5edad941ee7e0123dfa72db867a13ba03d479ca94a869039dfce2f54",
+      "groesse": 11075376
     },
     "darwin-arm64": {
-      "url": "3.9.3/srental3-darwin-arm64",
-      "sha256": "eea50a05b8e1b1a006b3055facb3de5cc08d15156c6b9b27c961d2a70db5f496",
+      "url": "3.10.0/srental3-darwin-arm64",
+      "sha256": "6acd1e1df539c504f88dcd31b75c0d1a6bad288000d72dfc6771287f7e95a9e5",
       "groesse": 10460018
     },
     "windows-amd64": {
-      "url": "3.9.3/srental3-windows-amd64.exe",
-      "sha256": "61610b668796003f12aa5c67aaad123a674d5785b651aee648825576a9de2df7",
-      "groesse": 11162112
+      "url": "3.10.0/srental3-windows-amd64.exe",
+      "sha256": "a36aa33028ab88c0889d3fd24dac66d1766913c5a7a52042f953bd69491ec0f4",
+      "groesse": 11167232
     }
   },
-  "datum": "2026-10-21",
+  "datum": "2026-10-23",
   "kanal": "test",
   "neu": [
-    "Anleitung",
-    "Layout-Update"
+    "Layout-Update",
+    "Vereinfachungen"
   ],
-  "version": "3.9.3"
+  "version": "3.10.0"
 }
