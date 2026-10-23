@@ -1,26 +1,27 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.10.0/srental3-darwin-amd64",
-      "sha256": "334389ec5edad941ee7e0123dfa72db867a13ba03d479ca94a869039dfce2f54",
+      "url": "3.10.1/srental3-darwin-amd64",
+      "sha256": "17c298ee16b21c246cdaa0cbca8450892d9b5fe427bccde586daf04887382604",
       "groesse": 11075376
     },
     "darwin-arm64": {
-      "url": "3.10.0/srental3-darwin-arm64",
-      "sha256": "6acd1e1df539c504f88dcd31b75c0d1a6bad288000d72dfc6771287f7e95a9e5",
+      "url": "3.10.1/srental3-darwin-arm64",
+      "sha256": "800bfb57371d9d2f913ee9c423a17f1e2e1c15c7cff7963a63c3a112f410e495",
       "groesse": 10460018
     },
     "windows-amd64": {
-      "url": "3.10.0/srental3-windows-amd64.exe",
-      "sha256": "a36aa33028ab88c0889d3fd24dac66d1766913c5a7a52042f953bd69491ec0f4",
-      "groesse": 11167232
+      "url": "3.10.1/srental3-windows-amd64.exe",
+      "sha256": "c8cc23b7cc8dc5b0a6a03e1157bf5771747b23e97db839ae869a1a7f75086875",
+      "groesse": 11199488
     }
   },
   "datum": "2026-10-23",
   "kanal": "test",
   "neu": [
     "Layout-Update",
-    "Vereinfachungen"
+    "Vereinfachungen",
+    "Windows-Update"
   ],
-  "version": "3.10.0"
+  "version": "3.10.1"
 }
