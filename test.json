@@ -1,26 +1,25 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.11.0/srental3-darwin-amd64",
-      "sha256": "54eae0f5fa19114876d4f1d7d9a0b93621432423bf41d9801090f44f3fba4ea8",
-      "groesse": 11249536
+      "url": "3.11.1/srental3-darwin-amd64",
+      "sha256": "c0e71a70cc011a2d3112de7293ab395b30223be83a3f444129307c62612ba96c",
+      "groesse": 11765824
     },
     "darwin-arm64": {
-      "url": "3.11.0/srental3-darwin-arm64",
-      "sha256": "21958d3834e588fac62e14ed39e490041236a2a4c320ebe4fc98cc271e3c95b2",
-      "groesse": 10610786
+      "url": "3.11.1/srental3-darwin-arm64",
+      "sha256": "c2490cb206ae9aa4fa54bf76a6365db2dc9d2ce4a0ba4dec2b5e47db6ce0ecbc",
+      "groesse": 11139346
     },
     "windows-amd64": {
-      "url": "3.11.0/srental3-windows-amd64.exe",
-      "sha256": "35e3c1477ef637af669c59dde3b5adf7f232c237d819b2d1a069068dad694fef",
-      "groesse": 11373568
+      "url": "3.11.1/srental3-windows-amd64.exe",
+      "sha256": "2fbd63cad8b1afbc7d729cfc6d048ed7bf692271c0d364fe7caa6e6e920de469",
+      "groesse": 11890176
     }
   },
   "datum": "2026-10-24",
   "kanal": "test",
   "neu": [
-    "Neue Funktionen",
-    "Ansicht Einfach oder Erweitert"
+    "Anleitung mit Bildern"
   ],
-  "version": "3.11.0"
+  "version": "3.11.1"
 }
