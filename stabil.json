@@ -1,27 +1,25 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.12.2/srental3-darwin-amd64",
-      "sha256": "b7f81dcdca7323fdaa073927c5e387dbea106e7e948383fd39737beadb05f0d5",
+      "url": "3.12.3/srental3-darwin-amd64",
+      "sha256": "214c2c3146d410864145063a4d7e83895078672a5cef468a0488461470534ae7",
       "groesse": 11848032
     },
     "darwin-arm64": {
-      "url": "3.12.2/srental3-darwin-arm64",
-      "sha256": "82adc0c15a943de58cc7c959fb01c2cb6c0a9f70a3bf8bd021dd67ffa8e32b8d",
+      "url": "3.12.3/srental3-darwin-arm64",
+      "sha256": "840e7f3ad795e7e9c0d4628ba4129a860f042f0998de24d36bbb8d7e0f822fe7",
       "groesse": 11222210
     },
     "windows-amd64": {
-      "url": "3.12.2/srental3-windows-amd64.exe",
-      "sha256": "69a3ae7a775d6933aee6135ebaaf173166e94813b151fe179e667eef7ed8a543",
-      "groesse": 11975680
+      "url": "3.12.3/srental3-windows-amd64.exe",
+      "sha256": "155d8518f27f534300be9d3a5dbffd32c57cdfa60a88069df4d6ddeac844d951",
+      "groesse": 11975168
     }
   },
   "datum": "2026-10-24",
   "kanal": "stabil",
   "neu": [
-    "Neue Funktionen",
-    "Layout-Update",
-    "Sicherheits-Update"
+    "Kleine Verbesserungen"
   ],
-  "version": "3.12.2"
+  "version": "3.12.3"
 }
