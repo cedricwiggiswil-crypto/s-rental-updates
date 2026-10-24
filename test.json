@@ -1,25 +1,26 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.10.2/srental3-darwin-amd64",
-      "sha256": "2037d988bc64b3732f00dc9b9c0eb154199024403268896c97cc713c9789131c",
-      "groesse": 11083568
+      "url": "3.11.0/srental3-darwin-amd64",
+      "sha256": "54eae0f5fa19114876d4f1d7d9a0b93621432423bf41d9801090f44f3fba4ea8",
+      "groesse": 11249536
     },
     "darwin-arm64": {
-      "url": "3.10.2/srental3-darwin-arm64",
-      "sha256": "ddebfa837c9259a7a4f1e32b192f933a19535624d7d51a0ad3f6320d4c7de62c",
-      "groesse": 10476530
+      "url": "3.11.0/srental3-darwin-arm64",
+      "sha256": "21958d3834e588fac62e14ed39e490041236a2a4c320ebe4fc98cc271e3c95b2",
+      "groesse": 10610786
     },
     "windows-amd64": {
-      "url": "3.10.2/srental3-windows-amd64.exe",
-      "sha256": "470312f93f606e5d875660389c1fd0333d49cd41a2aeee189b4b28f755f529dd",
-      "groesse": 11206656
+      "url": "3.11.0/srental3-windows-amd64.exe",
+      "sha256": "35e3c1477ef637af669c59dde3b5adf7f232c237d819b2d1a069068dad694fef",
+      "groesse": 11373568
     }
   },
   "datum": "2026-10-24",
   "kanal": "test",
   "neu": [
-    "Kuvert drucken"
+    "Neue Funktionen",
+    "Ansicht Einfach oder Erweitert"
   ],
-  "version": "3.10.2"
+  "version": "3.11.0"
 }
