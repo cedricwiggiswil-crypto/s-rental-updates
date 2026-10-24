@@ -1,0 +1,25 @@
+{
+  "dateien": {
+    "darwin-amd64": {
+      "url": "3.13.0/srental3-darwin-amd64",
+      "sha256": "aa6d0bd93529fbf06eba392680560f9aee0e7449fbb9e92b42d4b34a671179d0",
+      "groesse": 11860624
+    },
+    "darwin-arm64": {
+      "url": "3.13.0/srental3-darwin-arm64",
+      "sha256": "2abea6690c6b54b2d7579c97ee138bed1075f6ee45f8f3cde2fe9748af212f03",
+      "groesse": 11239010
+    },
+    "windows-amd64": {
+      "url": "3.13.0/srental3-windows-amd64.exe",
+      "sha256": "1755ff0aca67a975b90e4dbbeb05721d3574212b52e3d72f69f6cb73398df0d2",
+      "groesse": 11984896
+    }
+  },
+  "datum": "2026-10-24",
+  "kanal": "kunde/aabd1201676e95df",
+  "neu": [
+    "Betriebsart Pferde"
+  ],
+  "version": "3.13.0"
+}
