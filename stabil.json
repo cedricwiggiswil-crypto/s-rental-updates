@@ -1,27 +1,27 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.10.1/srental3-darwin-amd64",
-      "sha256": "17c298ee16b21c246cdaa0cbca8450892d9b5fe427bccde586daf04887382604",
-      "groesse": 11075376
+      "url": "3.12.2/srental3-darwin-amd64",
+      "sha256": "b7f81dcdca7323fdaa073927c5e387dbea106e7e948383fd39737beadb05f0d5",
+      "groesse": 11848032
     },
     "darwin-arm64": {
-      "url": "3.10.1/srental3-darwin-arm64",
-      "sha256": "800bfb57371d9d2f913ee9c423a17f1e2e1c15c7cff7963a63c3a112f410e495",
-      "groesse": 10460018
+      "url": "3.12.2/srental3-darwin-arm64",
+      "sha256": "82adc0c15a943de58cc7c959fb01c2cb6c0a9f70a3bf8bd021dd67ffa8e32b8d",
+      "groesse": 11222210
     },
     "windows-amd64": {
-      "url": "3.10.1/srental3-windows-amd64.exe",
-      "sha256": "c8cc23b7cc8dc5b0a6a03e1157bf5771747b23e97db839ae869a1a7f75086875",
-      "groesse": 11199488
+      "url": "3.12.2/srental3-windows-amd64.exe",
+      "sha256": "69a3ae7a775d6933aee6135ebaaf173166e94813b151fe179e667eef7ed8a543",
+      "groesse": 11975680
     }
   },
-  "datum": "2026-10-23",
+  "datum": "2026-10-24",
   "kanal": "stabil",
   "neu": [
+    "Neue Funktionen",
     "Layout-Update",
-    "Vereinfachungen",
-    "Windows-Update"
+    "Sicherheits-Update"
   ],
-  "version": "3.10.1"
+  "version": "3.12.2"
 }
