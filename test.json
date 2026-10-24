@@ -1,25 +1,26 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.11.1/srental3-darwin-amd64",
-      "sha256": "c0e71a70cc011a2d3112de7293ab395b30223be83a3f444129307c62612ba96c",
-      "groesse": 11765824
+      "url": "3.12.0/srental3-darwin-amd64",
+      "sha256": "35f3b252ae175a0fd7bf97b1e99d64ca0631cb1577eff27064fcb38c96e2cfcc",
+      "groesse": 11798656
     },
     "darwin-arm64": {
-      "url": "3.11.1/srental3-darwin-arm64",
-      "sha256": "c2490cb206ae9aa4fa54bf76a6365db2dc9d2ce4a0ba4dec2b5e47db6ce0ecbc",
-      "groesse": 11139346
+      "url": "3.12.0/srental3-darwin-arm64",
+      "sha256": "d07573b77bf49ef9254b714ace11eb9aa79b38447b46b224684c54ae7b55320f",
+      "groesse": 11172434
     },
     "windows-amd64": {
-      "url": "3.11.1/srental3-windows-amd64.exe",
-      "sha256": "2fbd63cad8b1afbc7d729cfc6d048ed7bf692271c0d364fe7caa6e6e920de469",
-      "groesse": 11890176
+      "url": "3.12.0/srental3-windows-amd64.exe",
+      "sha256": "f88ea2802bfb1bd2571e84050c9ded5dd9026dbcc5704d903c626cfd87944371",
+      "groesse": 11920384
     }
   },
   "datum": "2026-10-24",
   "kanal": "test",
   "neu": [
-    "Anleitung mit Bildern"
+    "Layout-Update",
+    "Offerten löschen"
   ],
-  "version": "3.11.1"
+  "version": "3.12.0"
 }
