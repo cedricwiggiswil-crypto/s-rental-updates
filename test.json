@@ -1,25 +1,25 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.14.3/srental3-darwin-amd64",
-      "sha256": "a1589be30672cd4845efdf8b69b69e486ef3a0a1f7c746179f8037e1e7d92865",
+      "url": "3.14.4/srental3-darwin-amd64",
+      "sha256": "a9fb1fbe1aa00617b242d07551edabec5dafa8b3fc6ac317c8807f57c67bf22e",
       "groesse": 11914288
     },
     "darwin-arm64": {
-      "url": "3.14.3/srental3-darwin-arm64",
-      "sha256": "69cc7d77554b6468be6f52b61e898094d5bd5647c2fff7487e9070c75ca418c8",
+      "url": "3.14.4/srental3-darwin-arm64",
+      "sha256": "258d0374f0c2310c40554903915e25e5e8e57192b443c6b12eb56155ad0cabcf",
       "groesse": 11288962
     },
     "windows-amd64": {
-      "url": "3.14.3/srental3-windows-amd64.exe",
-      "sha256": "29f10a8330ce1cc9968849f08917a77b83fd747802ee45b97d2733421d3e7826",
-      "groesse": 12036096
+      "url": "3.14.4/srental3-windows-amd64.exe",
+      "sha256": "01ecb6a479532e4849dd02ce20ced972c42e7f794ce34c82a31ab904242c69ab",
+      "groesse": 12038656
     }
   },
   "datum": "2026-10-26",
   "kanal": "test",
   "neu": [
-    "QR-Formular: Einheiten festlegen, die der Kunde wählen kann"
+    "Alte QR-Kleber zeigen das neue Formular"
   ],
-  "version": "3.14.3"
+  "version": "3.14.4"
 }
