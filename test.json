@@ -1,25 +1,27 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.14.7/srental3-darwin-amd64",
-      "sha256": "6a6d8a94479c5cd733908e157af70c027a1a83be2b7cc6784a0be146aee0968c",
-      "groesse": 11934864
+      "url": "3.14.8/srental3-darwin-amd64",
+      "sha256": "bce23f8fd817b6c2634ea91ca7c74856f419593245e929b5706402defcbe18ef",
+      "groesse": 11938960
     },
     "darwin-arm64": {
-      "url": "3.14.7/srental3-darwin-arm64",
-      "sha256": "dd98557137e839b9ddbe3bb95ebb5e40a99587e4472665f41128f281c45176df",
+      "url": "3.14.8/srental3-darwin-arm64",
+      "sha256": "20bab051b50c9921fbce32836d3023bb70af4846ad673594edc62e7434c3045f",
       "groesse": 11305586
     },
     "windows-amd64": {
-      "url": "3.14.7/srental3-windows-amd64.exe",
-      "sha256": "aefc45ba6915215da658b4d4831acd16ff1fba5c0a1e2b2d7417de6fd5a24992",
-      "groesse": 12058624
+      "url": "3.14.8/srental3-windows-amd64.exe",
+      "sha256": "5a6a0853dc538c172f7094d8c0160f895de4bb5f79e79348bc88569a3cf4c42f",
+      "groesse": 12060160
     }
   },
   "datum": "2026-10-26",
   "kanal": "test",
   "neu": [
-    "Neue QR-Aufkleber: «Nach der Nutzung QR-Code scannen»"
+    "QR-Aufkleber: nichts mehr abgeschnitten",
+    "Post-it-Grösse",
+    "Schritt «Namen eingeben»"
   ],
-  "version": "3.14.7"
+  "version": "3.14.8"
 }
