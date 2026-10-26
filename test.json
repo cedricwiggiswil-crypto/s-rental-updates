@@ -1,25 +1,25 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.13.2/srental3-darwin-amd64",
-      "sha256": "42dee92830ad5b1898fbd72b95ebd50d6b2b341208e60e9142f109f6244c6d6f",
-      "groesse": 11860736
+      "url": "3.13.3/srental3-darwin-amd64",
+      "sha256": "26e541d5654d46b44b703dd8a4ee25452300644552dc657af11d1f44fa9c7d31",
+      "groesse": 11877120
     },
     "darwin-arm64": {
-      "url": "3.13.2/srental3-darwin-arm64",
-      "sha256": "b971785ea4392a7c76c428b0d5c28c4890eba49ed9c5b88074243926ef0dccb2",
-      "groesse": 11239122
+      "url": "3.13.3/srental3-darwin-arm64",
+      "sha256": "09e96b90c476b3ca2dcbf24a8bbfc13b9ccb026660bdbba205fe27b16ced06cf",
+      "groesse": 11239138
     },
     "windows-amd64": {
-      "url": "3.13.2/srental3-windows-amd64.exe",
-      "sha256": "ab5ae6d5af47a0a5fc3cc7e1cec8968b1d7a06e968715d90e370d8c2f2903316",
-      "groesse": 11988992
+      "url": "3.13.3/srental3-windows-amd64.exe",
+      "sha256": "31458187dbdbed34405236d3b7d232cdcfe5f481ca2ac30fdc6f3c11ac92ae9e",
+      "groesse": 12000768
     }
   },
   "datum": "2026-10-26",
   "kanal": "test",
   "neu": [
-    "Staffelpreise"
+    "QR-Update"
   ],
-  "version": "3.13.2"
+  "version": "3.13.3"
 }
