@@ -1,25 +1,25 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.14.0/srental3-darwin-amd64",
-      "sha256": "16b16f1aacc5ed6b5495a71383d7a946e02f1aacd14c3e8d5c4f2e80a459ceb8",
-      "groesse": 11893712
+      "url": "3.14.1/srental3-darwin-amd64",
+      "sha256": "9e9f27bcf7c50df12dece60f1ad6a99285d23f78a48a617b904fc967a4d5f065",
+      "groesse": 11897824
     },
     "darwin-arm64": {
-      "url": "3.14.0/srental3-darwin-arm64",
-      "sha256": "2e9782e9b2e426fbdeec159c63bd9b081e9520fed65950f0250e9dd58fbc80ac",
-      "groesse": 11255842
+      "url": "3.14.1/srental3-darwin-arm64",
+      "sha256": "2f981f47cbf2bc0c007280cf5dd6b42164305b2366f0c546e7be1442e2406c34",
+      "groesse": 11255874
     },
     "windows-amd64": {
-      "url": "3.14.0/srental3-windows-amd64.exe",
-      "sha256": "00ff6cc08235d9f14cb9affc4c789bb0f5f1d3510691c679a1564364c4253d22",
-      "groesse": 12018176
+      "url": "3.14.1/srental3-windows-amd64.exe",
+      "sha256": "4744a154790c5a7afa8fcff5d400d33150fc3386044bf46213d425daacc43156",
+      "groesse": 12023808
     }
   },
   "datum": "2026-10-26",
   "kanal": "test",
   "neu": [
-    "QR-Formular einrichten"
+    "QR-Formular pro Maschine"
   ],
-  "version": "3.14.0"
+  "version": "3.14.1"
 }
