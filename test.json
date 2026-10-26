@@ -1,25 +1,26 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.14.4/srental3-darwin-amd64",
-      "sha256": "a9fb1fbe1aa00617b242d07551edabec5dafa8b3fc6ac317c8807f57c67bf22e",
-      "groesse": 11914288
+      "url": "3.14.6/srental3-darwin-amd64",
+      "sha256": "23445b971fe63c6098d7a0ac0734fdea0df4561a1804e260c2526b6c507719da",
+      "groesse": 11922528
     },
     "darwin-arm64": {
-      "url": "3.14.4/srental3-darwin-arm64",
-      "sha256": "258d0374f0c2310c40554903915e25e5e8e57192b443c6b12eb56155ad0cabcf",
-      "groesse": 11288962
+      "url": "3.14.6/srental3-darwin-arm64",
+      "sha256": "17f18428fea34154abebd1897768da6dd198bef12d9f95d80b190a6510459648",
+      "groesse": 11289010
     },
     "windows-amd64": {
-      "url": "3.14.4/srental3-windows-amd64.exe",
-      "sha256": "01ecb6a479532e4849dd02ce20ced972c42e7f794ce34c82a31ab904242c69ab",
-      "groesse": 12038656
+      "url": "3.14.6/srental3-windows-amd64.exe",
+      "sha256": "d6565aedefc15e0ce599f95beffa1f9ca5c5394d08358027adcb936cbb918fd4",
+      "groesse": 12050432
     }
   },
   "datum": "2026-10-26",
   "kanal": "test",
   "neu": [
-    "Alte QR-Kleber zeigen das neue Formular"
+    "AGB und Datenschutz Fassung 2026-10-26.1 (Lieferung, Rücktritt, Rückerstattung)",
+    "Impressum unter «Über S Rental»"
   ],
-  "version": "3.14.4"
+  "version": "3.14.6"
 }
