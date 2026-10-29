@@ -1,27 +1,25 @@
 {
   "dateien": {
     "darwin-amd64": {
-      "url": "3.14.8/srental3-darwin-amd64",
-      "sha256": "bce23f8fd817b6c2634ea91ca7c74856f419593245e929b5706402defcbe18ef",
-      "groesse": 11938960
+      "url": "3.14.9/srental3-darwin-amd64",
+      "sha256": "274de39338d8c8f3e3c674c724b8f377023b893e35a76dbfb7d8b315ca349724",
+      "groesse": 11943104
     },
     "darwin-arm64": {
-      "url": "3.14.8/srental3-darwin-arm64",
-      "sha256": "20bab051b50c9921fbce32836d3023bb70af4846ad673594edc62e7434c3045f",
-      "groesse": 11305586
+      "url": "3.14.9/srental3-darwin-arm64",
+      "sha256": "133623bc896e5e2e66c40958fc8690c28fb4b1f3ba62109ae66d08a2abb98871",
+      "groesse": 11305634
     },
     "windows-amd64": {
-      "url": "3.14.8/srental3-windows-amd64.exe",
-      "sha256": "5a6a0853dc538c172f7094d8c0160f895de4bb5f79e79348bc88569a3cf4c42f",
-      "groesse": 12060160
+      "url": "3.14.9/srental3-windows-amd64.exe",
+      "sha256": "cdd021f5da1e51f75ee3dbf9a64b3b21d88aa4e00d3aa2965fbee7bad3478449",
+      "groesse": 12069888
     }
   },
-  "datum": "2026-10-26",
+  "datum": "2026-10-29",
   "kanal": "test",
   "neu": [
-    "QR-Aufkleber: nichts mehr abgeschnitten",
-    "Post-it-Grösse",
-    "Schritt «Namen eingeben»"
+    "Rechnungen: Rabatt in % oder CHF"
   ],
-  "version": "3.14.8"
+  "version": "3.14.9"
 }
